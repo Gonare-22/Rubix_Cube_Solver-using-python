@@ -16,7 +16,8 @@ Clone the repository to your local machine.
 Install the Kociemba library (if not already installed) according to the provided documentation.
 Use the library functions to solve Rubik's Cube configurations programmatically.
 Alternatively, use the provided command-line interface or graphical user interface for interactive solving.
+
 Contributors:
-Vaishnav Gonare
+Vaishnav Gonare FROM VIIT.
 Feel free to contribute to the project by forking the repository and submitting pull requests for enhancements, bug fixes, or additional features.
 
